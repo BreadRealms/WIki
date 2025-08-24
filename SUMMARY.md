@@ -1,15 +1,7 @@
-# Содержание
+# Table of contents
 
-## [Главная](README.md)
+* [BreadRealms Wiki](README.md)
 
-### Плагины
+## Плагины
 
-- [](url)
-- [](url)
-- [](url)
-
-### Гайды
-
-- [](url)
-- [](url)
-- [](url)
+## Гайды
